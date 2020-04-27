@@ -193,7 +193,7 @@ entry.entryy()
 def Menu():
     while True:
         print("-----------------------------------")
-        print(colors.b,"|||   XSS-PHOENIX TOOLS      |||")
+        print(colors.b,"|||   XSS-MoussaUnix TOOLS |||")
         print("-----------------------------------")
         yy = ("\n"
               "1)  BASIC PAYLOAD\n"
