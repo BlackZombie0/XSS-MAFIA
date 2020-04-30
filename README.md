@@ -4,7 +4,7 @@
 
 # cd Installation cd
 
-git clone https://github.com/PHOENIX7713/XSS-PHOENIX.git
+git clone https://github.com/FSOCIETY-coder-dz/XSS-FSOCIETY.git
 
 cd XSS-FSOCIETY
 
