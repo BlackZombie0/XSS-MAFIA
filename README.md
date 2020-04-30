@@ -1,17 +1,12 @@
-# XSS-PHOENIX
+# XSS-FSOCIETY
 
-# youtube : FR13NDS DZ
-# facebook : Phoenix Pw
-# github : PHOENIX7713
-# twitter : ShadowDz5
-# instagram : zodiac2372
 # Note! : We don't Accept any responsibility for any illegal usage.
 
-cd Installation cd
+# cd Installation cd
 
 git clone https://github.com/PHOENIX7713/XSS-PHOENIX.git
 
-cd XSS-PHOENIX
+cd XSS-FSOCIETY
 
 pip3 install -r requirements.txt
 
