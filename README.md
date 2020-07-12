@@ -8,7 +8,7 @@
 
 # cd Installation cd
 
-git clone https://github.com/FSOCIETY-coder-dz/XSS-FSOCIETY.git
+git clone https://github.com/spyeye-dz/XSS-Damn-you-Khalil-Djaariri
 
 cd XSS-FSOCIETY
 
