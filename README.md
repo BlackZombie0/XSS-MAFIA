@@ -1,4 +1,8 @@
-# XSS-FSOCIETY
+# XSS-Damn-you-Khalil-Djaariri
+
+# تبا لكم ايها الاغبياء تبا لكم جميعا حمقى 
+
+# غبي تتحدى المافيا استمتع بي سكربت الزعيم تبا لي اعدارك جميعا
 
 # Note! : We don't Accept any responsibility for any illegal usage.
 
